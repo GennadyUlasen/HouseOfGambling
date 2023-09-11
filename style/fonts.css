@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Lexend";
+    src: url(../fonts/Lexend-VariableFont_wght.ttf);
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Futura PT";
+    src: url(../fonts/Futura/FuturaPTMedium.otf);
+    font-display: swap;
+}
